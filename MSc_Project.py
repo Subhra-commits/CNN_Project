@@ -172,7 +172,7 @@ from PIL import Image
 # ## 2-digits number recognition
 
 
-img = cv2.imread("30.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("50.jpg", cv2.IMREAD_GRAYSCALE)
 #gray_img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 plt.imshow(img)
 img.shape
