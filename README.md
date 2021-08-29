@@ -17,3 +17,9 @@ Create a sequential model of convolution, pooling and hidden layers. Here I have
 The last layer i.e. output layer produces actual output. 
 
 After Successfully creating our model, we train our model using training dataset for a fixed number of epochs (here 15 epochs are used) and then evaluate on test dataset to check how efficiently our model works/predicts. 
+
+After successful evaluation of our model, we have achieved a validation accuracy of 99.69%. And we test our model for predicting some user given inputs and predict the expected output.
+I have tried to extend this program to identify numbers that have more than one digit, here I only done with two digits but in future I want to extend this model for predicting any number of any number of digits. 
+
+That's all about my project.
+Thank you. Hope you all like this project. 
